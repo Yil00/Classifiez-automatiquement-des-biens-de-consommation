@@ -25,7 +25,8 @@ Mission
 
 - analyser le jeu de données en réalisant un prétraitement des images et des descriptions des produits, une réduction de dimension, puis un clustering. Les résultats du clustering seront présentés sous la forme d’une représentation en deux dimensions à déterminer, qui ’illustrera le fait que les caractéristiques extraites permettent de regrouper des produits de même catégorie.
 
-![Image1](https://im2.ezgif.com/tmp/ezgif-2-45443b386d.png)
+![OPP6](https://user-images.githubusercontent.com/105881992/234868525-0c49ba89-1646-421a-a67a-90d8bee87a75.png)
 
 ---
-![Image2](https://im2.ezgif.com/tmp/ezgif-2-0dee81765d.png)
+![OPP61](https://user-images.githubusercontent.com/105881992/234868565-1d8f66ea-0921-49e8-a7fb-f65d5d8bbdd5.png)
+
